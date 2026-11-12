@@ -1,2 +1,2 @@
 #11259A130_DSA_LAB
-data structures and algoriths
+data structures and algorithms
